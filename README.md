@@ -1,7 +1,7 @@
-# Project Title: Economic Analysis of [Your Topic]
+Analysis and Learning of Consumer Expenditures between Welfare Recipients and Individual Characteristics |
 
 ## Description
-Analysis and Learning of Consumer Expenditures between Welfare Recipients and Individual Characteristics |
+An experimental project for Public Policy Economics for Consumer Expenditures of welfare recipients through the Pandemic with Python and R. 
 
 ## Objectives
 - Objective 1: To understand the high varaince of working age citizens and prevalance of the Covid-19 Pandemic on Welfare and Non-Welfare Consumers
